@@ -1,7 +1,7 @@
 # Besa Gun 🔫
 
 Besagun is a multi-chain trading bot based in telegram [@Besagun_bot](https://t.me/Besagun_bot) . Made by trader and for trader only!
-![Logo](https://pbs.twimg.com/profile_banners/1774008362533027840/1714108792/1500x500)
+![Logo](https://github.com/tuantruongdev/besagun/blob/main/media/banner_large.jpg?raw=true)
 ## Table of Contents
 
 - [Overview](#overview)
@@ -12,7 +12,9 @@ Besagun is a multi-chain trading bot based in telegram [@Besagun_bot](https://t.
 - [Contact](#contact)
 
 ## Overview
-![Bot](https://ibb.co/1JDVDq3)
+![Bot](https://github.com/tuantruongdev/besagun/blob/main/media/token_menu.png?raw=true)
+
+
 Besagun is an innovative platform aimed at transforming the digital asset landscape through the integration of cutting-edge technology and blockchain principles. The platform's core is the BESA token, a versatile cryptocurrency designed to facilitate a range of functionalities within the Besagun ecosystem.
 
 For detailed documentation, visit the [Besagun Documentation](https://docs.besagun.com/besagun).
@@ -32,8 +34,8 @@ To start the bot, go to this link will open our bot on telegram https://t.me/Bes
 
 *Step 2*: start the bot by press ``/start`` or ``/menu``
 
-If you do those step correctly you will see the menu appear like this
-![Menu](https://ibb.co/1JDVDq3)
+If you do those step correctly you will see the menu appear like this:
+![Menu](https://github.com/tuantruongdev/besagun/blob/main/media/bot_menu.png?raw=true)
 
 For detailed usage instructions, refer to the [Besagun Documentation](https://docs.besagun.com/besagun).
 
@@ -41,7 +43,7 @@ For detailed usage instructions, refer to the [Besagun Documentation](https://do
 
 The BESA token is central to the Besagun ecosystem. Here are the key aspects of its tokenomics:
 
-- **Total Supply**: The total supply of BESA tokens is fixed at *TBA* billion.
+- **Total Supply**: The total supply of BESA tokens is fixed at **TBA** million.
 - **Distribution**:
   - **Public Sale**: TBA%
   - **Team Allocation**: TBA%
