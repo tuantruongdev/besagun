@@ -1,2 +1,2 @@
-# besagun
+# Besagun 🔫
 Github repo for Besa Gun 🔫 - multi-chain trading bot
